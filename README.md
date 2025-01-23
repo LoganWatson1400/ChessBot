@@ -1,5 +1,5 @@
 # ChessBot
-
+![alt text](image.png)
 ## Description
 Chess Bot implementaion using the Lichess API
 
